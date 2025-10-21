@@ -3,7 +3,7 @@ public class ClaseSencilla {
    }
 
    public static void main(String[] var0) {
-      System.out.println("¡Hola, Mundo!");
+      System.out.println("¡Hola, Mundo! Modificación 1");
    }
     
 }
